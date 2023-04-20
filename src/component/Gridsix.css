@@ -1,0 +1,36 @@
+.grida{
+    background-image: url("../images//grid1.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gridb{
+    background-image: url("../images/grid2.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.gridc{
+    background-image: url("../images/grid3.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.gridd{
+    background-image: url("../images/grid4.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.gride{
+    background-image: url("../images/grid5.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.gridf{
+    background-image: url("../images/grid6.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
